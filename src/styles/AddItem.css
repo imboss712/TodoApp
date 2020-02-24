@@ -1,0 +1,21 @@
+.AddItem{
+    padding: 0;
+    margin: 25px 0 0 0;
+    width: 100%;
+    display: block;
+    text-align: center;
+    box-shadow: 1px 1px 5px #eee;
+}
+
+.AddItem input[type="text"]{
+    padding: 11px 14px;
+    width: 100%;
+    outline: none;
+    border: 1.5px solid #ccc;
+    border-radius: 4px;
+    font-size: 17.5px;
+    color: #004666;
+}
+.AddItem input[type="text"]:focus{
+    border-color: #004666;;
+}
