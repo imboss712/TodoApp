@@ -4,7 +4,10 @@ Todo Application is developed in [ReactJS](https://reactjs.org/) and [Shards Rea
 ## Demo : [CodeSandBox](https://0rjf6.codesandbox.io/)
 
 ### Demo Image :
-![ToDo App Demo Image](src/images/todo.png)
+
+<p align="center">
+  <img width="100%" height="100%" title="ToDo App Demo Image" alt="ToDo App" src="src/images/todo.png">
+</p>
 
 ### Install Dependencies : 
 Clone or download the repo and run command in terminal
